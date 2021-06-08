@@ -19,6 +19,8 @@
 ### **MARCO TEÓRICO (RESUMEN)**
 
 
+[MARCO TEÓRICO](https://github.com/Jhosu115/Tarea-2-/blob/main/Marco%20teórico.pdf)
+
 ### **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
 
