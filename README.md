@@ -26,6 +26,7 @@
 
 ### **4. VIDEO**
 
+[![Video de los ejercicios ](https://youtu.be/e4x5IgEhtTo)
 
 ### **5. CONCLUSIONES**
 
