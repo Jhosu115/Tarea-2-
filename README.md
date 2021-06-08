@@ -23,7 +23,7 @@
 
 ### **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
-[Ejercicios Resueltos](https://github.com/Jhosu115/Taller/blob/main/EXPLICACIÓN%20DEL%20PROCEDIMIENTO.pdf)
+[Ejercicios Resueltos](https://github.com/Jhosu115/Tarea-2-/blob/main/Ejercicios%20Capítulos%203%20y%204.pdf)
 
 ### **4. VIDEO**
 
@@ -39,3 +39,11 @@
 
 
 ### **6. BIBLIOGRAFÍA**
+
+* https://www.fluke.com/es-ec/informacion/blog/electrica/que-es-la-ley-de-ohm
+
+* https://www.edu.xunta.gal/espazoAbalar/sites/espazoAbalar/files/datos/1464947843/contido/24_la_ley_de_ohm.html
+
+* https://www.areatecnologia.com/electricidad/resistencia-electrica.html
+
+
