@@ -23,6 +23,7 @@
 
 ### **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
+[Ejercicios Resueltos](https://github.com/Jhosu115/Taller/blob/main/EXPLICACIÓN%20DEL%20PROCEDIMIENTO.pdf)
 
 ### **4. VIDEO**
 
