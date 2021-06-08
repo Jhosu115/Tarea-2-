@@ -26,7 +26,7 @@
 
 ### **4. VIDEO**
 
-[![Video de los ejercicios ](https://youtu.be/e4x5IgEhtTo)
+[![Video de los ejercicios](https://github.com/Jhosu115/Tarea-2-/blob/main/imagen_2021-06-07_224156.png)](https://youtu.be/gxCNHONIrNo)
 
 ### **5. CONCLUSIONES**
 
